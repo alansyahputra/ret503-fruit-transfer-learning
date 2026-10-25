@@ -1,0 +1,10 @@
+model,mode,seed,val_acc,test_acc,train_time_s
+efficientnet_b0,feature,0,0.961,0.898,532
+efficientnet_b0,feature,1,0.932,0.898,523
+efficientnet_b0,feature,2,0.942,0.878,528
+efficientnet_b0,partial,0,0.951,0.929,560
+efficientnet_b0,partial,1,0.942,0.949,563
+efficientnet_b0,partial,2,0.932,0.918,561
+efficientnet_b0,scratch,0,0.816,0.755,1300
+efficientnet_b0,scratch,1,0.816,0.735,1289
+efficientnet_b0,scratch,2,0.777,0.755,1277
